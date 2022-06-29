@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fachalik
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning Front End Development
 - 📫 How to reach me fachalik@gmail.com
 
 <!---
